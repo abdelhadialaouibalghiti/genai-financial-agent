@@ -1,0 +1,24 @@
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Data
+data/raw_pdfs/*.pdf
+data/sqlite/*.db
+data/processed/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
