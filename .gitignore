@@ -6,7 +6,6 @@ env/
 .env
 
 # Data
-data/raw_pdfs/*.pdf
 data/sqlite/*.db
 data/processed/*.json
 
